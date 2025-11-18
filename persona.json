@@ -1,0 +1,15 @@
+{
+    "nombre":"Ana",
+    "apellidos":"Román",
+    "edad": 26,
+    "hijos": 1,
+    "nombre_pareja": null,
+    "vivo": true,
+    "altura": 1.65,
+    "hobbies": ["nadar", "saltar", "hablar"]
+    "direccion": {
+        "calle": "Hispanidad 33",
+        "cp": 36205,
+        "pais": "España"
+    }
+}
